@@ -18,8 +18,8 @@ Remember, the purpose of these exercises is to challenge your understanding of D
 
 | Category         | Description                                  |
 |------------------|----------------------------------------------|
-| Docker Run       | Exercises focused on the `docker run` command and its various options. |
-| Miscellaneous    | Varied tasks covering a range of Docker functionalities. |
+| [Docker Run](./exercises/docker_run.md)       | Exercises focused on the `docker run` command and its various options. |
+| [Miscellaneous](./exercises/miscellaneous.md)    | Varied tasks covering a range of Docker functionalities. |
 | [Other categories] | [Descriptions]                              |
 
 ## Contribution

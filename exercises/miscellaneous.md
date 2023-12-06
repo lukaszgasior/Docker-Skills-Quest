@@ -8,16 +8,20 @@ Challenge yourself and broaden your Docker expertise!
 
 <details>
 <summary>solution</summary>
+<pre>
 <code>
 docker --version
 </code>
+</pre>
 </details>
 
 ### 2. Check storage driver currently used by your docker instance
 
 <details>
 <summary>solution</summary>
+<pre>
 <code>
 docker info | grep 'Storage Driver:'
 </code>
+</pre>
 </details>
